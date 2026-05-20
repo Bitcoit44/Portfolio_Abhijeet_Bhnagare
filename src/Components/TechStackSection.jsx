@@ -44,7 +44,7 @@ const TechStackSection = () => {
     },
 
     {
-      name: "Node.js",
+      name: "Springboot",
       icon: SiSpringboot,
       color: "text-green-500",
     },
